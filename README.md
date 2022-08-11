@@ -49,8 +49,8 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
   <summary><strong>🗓 Data de Entrega</strong></summary><br />
   
   * Este projeto é individual;
-  * Serão `X` dias de projeto;
-  * Data para entrega final do projeto: `DD/MM/YYYY - 14:00h`.
+  * Serão `2` dias de projeto;
+  * Data para entrega final do projeto: `22/08/2022 14:00`.
 
 </details>
 
@@ -61,9 +61,9 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   1. Clone o repositório
 
-  - Use o comando: `git clone git@github.com:tryber/sd-0x-inventory-report.git`
+  - Use o comando: `git clone git@github.com:tryber/sd-016-a-inventory-report.git`
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd sd-0x-inventory-report`
+    - `cd sd-016-a-inventory-report`
 
   2. Crie o ambiente virtual para o projeto
 
@@ -380,7 +380,7 @@ Os arquivos **XML** seguem o seguinte modelo:
 
     - No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
 
-    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-016-a`.
 
   Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
