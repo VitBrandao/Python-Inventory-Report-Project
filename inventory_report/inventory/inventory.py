@@ -8,11 +8,11 @@ from inventory_report.reports.simple_report import SimpleReport
 class Inventory():
     def import_csv(file_path):
         inventory_list = []
-        with open(file_path, encoding="utf-8") as f:
-            file_reader = csv.DictReader(f, delimiter=",", quotechar='"')
+        with open(file_path, encoding="utf-8") as file:
+            file_read = csv.DictReader(file, delimiter=",", quotechar='"')
 
-        for item in file_reader:
-            inventory_list.append(item)
+            for item in file_read:
+                inventory_list.append(item)
 
         return inventory_list
 
