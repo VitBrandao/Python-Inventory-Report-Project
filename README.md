@@ -6,7 +6,7 @@
 # Requisitos obrigatórios
 
 ## 1 - Testar o construtor/inicializador do objeto Produto
-> **Crie o teste em:** tests/product/test_product.py
+> **Crie o teste em: ** tests/product/test_product.py
 
 Ao analisar o código do projeto, você encontrará a classe do objeto produto já implementada neste arquivo: `inventory_report/inventory/product.py`, a classe **Product**.
 
