@@ -6,10 +6,6 @@
 ## 1 - Testar o construtor/inicializador do objeto Produto
 > **Crie o teste em:** tests/product/test_product.py
 
-  <p align="center">
-    <img src="/.images/construtor.png " alt="Imagem de construtor em Python"  width="600"/>
-  </p>
-
 Ao analisar o código do projeto, você encontrará a classe do objeto produto já implementada neste arquivo: `inventory_report/inventory/product.py`, a classe **Product**.
 
 Para termos confiança em continuar as implementações, precisamos que você implemente o teste, que certifique que o método `__init__` da classe Product esta funcionando corretamente.
